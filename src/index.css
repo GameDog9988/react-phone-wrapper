@@ -41,5 +41,6 @@ code {
     height: 100%;
     mask-image: url("./images/subtract-black.svg");
     mask-repeat: no-repeat;
+    object-fit: cover;
   }
 }
